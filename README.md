@@ -23,4 +23,5 @@ Code Implementation
 The project code is written in Python, leveraging popular machine learning and deep learning libraries such as scikit-learn, TensorFlow, or PyTorch. The code is organized into modules for data preprocessing, model development, evaluation, and deployment, ensuring modularity and ease of maintenance. Additionally, Jupyter Notebooks may be provided to facilitate interactive exploration of the code and analysis results.
 
 Conclusion
+
 This work contributes to enhancing cybersecurity by leveraging advanced machine learning techniques to detect and mitigate phishing attacks. By developing and deploying an accurate and efficient phishing detection system, this project aims to safeguard users' online security and privacy in an increasingly digital world.
